@@ -53,13 +53,38 @@ section{
     border-radius: 4px;
 }
 
+
+
+.half-width1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
 .image2{
-    width: 100%;
+    width: 89%;
+    
 }
 
-.half-width2{
-    margin-top: 30px;
+section{
+    height: 500px;
+    padding-bottom: :130px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* finished second part */
 
 /* start experience  part */
@@ -93,6 +118,10 @@ section{
 .h2{
     text-align: center;
     font-size: 50px;
+}
+
+.changecolor1{
+    color: tomato;
 }
 /* finished experience  part */
 
