@@ -1,4 +1,7 @@
+/* start first part */
+
 body{
+    margin: 0%;
     font-family: 'Italianno', cursive;
 font-family: 'PT Serif', serif;
 }
@@ -13,8 +16,90 @@ h1{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding-left: 5%;
+    padding-left: 1%;
 }
 .image{
     width: 100%;
 }
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: :130px;
+}
+.button{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+}
+/* finished first part */
+
+/* start second part */
+.second-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+/* finished second part */
+
+/* start experience  part */
+
+.shadow{
+    box-shadow: 10px 10px 40px grey;
+    height: 50%;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 60px;
+   
+}
+#box-ar-lomba-lathi{
+    border-left: 6px solid;
+    border-image: linear-gradient(lightSalmon,tomato);
+    border-image-slice: 1;
+    
+}
+
+#box-ar-lomba-lathi2{
+    border-left: 6px solid;
+    border-image: linear-gradient(deeppink,pink);
+    border-image-slice: 1;
+    
+}
+
+
+
+.footer{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
