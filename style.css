@@ -45,6 +45,21 @@ section{
     background-position: right;
    
 }
+.button1{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.image2{
+    width: 100%;
+}
+
+.half-width2{
+    margin-top: 30px;
+}
 /* finished second part */
 
 /* start experience  part */
@@ -58,6 +73,7 @@ section{
     background-repeat: no-repeat;
     background-position: left;
     background-size: 60px;
+    margin-top: 80px;
    
 }
 #box-ar-lomba-lathi{
@@ -72,6 +88,11 @@ section{
     border-image: linear-gradient(deeppink,pink);
     border-image-slice: 1;
     
+}
+
+.h2{
+    text-align: center;
+    font-size: 50px;
 }
 /* finished experience  part */
 
